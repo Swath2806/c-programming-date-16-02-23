@@ -1,0 +1,24 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+
+int x,y;
+int z;
+printf("enter x:");
+scanf("%d",&x);
+printf("enter y:");
+scanf("\n%d",&y);
+z=pow(x,y);
+printf("\npower value is%d",z);
+  
+    return 0;
+}
+
+
+
+
+
+
+
+
